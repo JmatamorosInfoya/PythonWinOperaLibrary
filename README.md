@@ -4,7 +4,7 @@
 
 # 1 Install the libraries using  the following commnad 
 
-``` pip install git+https://github.com/yourusername/behave-steps-library.git ```
+``` pip install git+https://github.com/JmatamorosInfoya/PythonWinOperaLibrary.git ```
 
 # 2  Install python-dot env in your feature project
 
