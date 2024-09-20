@@ -1,0 +1,10 @@
+behave
+selenium
+pywinauto
+Pillow
+pyscreeze
+behave2cucumber
+pyautogui
+pyjab
+setuptools
+python-dotenv
