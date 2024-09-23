@@ -1,0 +1,7 @@
+README.md
+setup.py
+operalib.egg-info/PKG-INFO
+operalib.egg-info/SOURCES.txt
+operalib.egg-info/dependency_links.txt
+operalib.egg-info/requires.txt
+operalib.egg-info/top_level.txt

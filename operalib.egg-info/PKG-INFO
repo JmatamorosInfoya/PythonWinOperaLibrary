@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: operalib
+Version: 0.1
+Summary: A library of reusable Behave steps for Opera application.
+Home-page: https://github.com/yourusername/behave-steps-library.git
+Author: Ivan
+Author-email: jmatamoros@infoya.ca
+Requires-Dist: behave

@@ -1,2 +1,6 @@
 *.dll
 .env
+opera-steps/
+environment.py
+pythonLibraries.txt
+setup.py
